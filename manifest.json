@@ -1,0 +1,12 @@
+{
+    "display_name": "Master System v3.0 - Universal Memory & Progression",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "",
+    "author": "Your Name",
+    "version": "3.0.0",
+    "homePage": "",
+    "auto_update": false
+}
