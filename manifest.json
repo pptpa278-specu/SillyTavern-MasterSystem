@@ -1,12 +1,15 @@
 {
-    "display_name": "Master System v3.0 - Universal Memory & Progression",
-    "loading_order": 100,
-    "requires": [],
-    "optional": [],
-    "js": "index.js",
-    "css": "",
-    "author": "Your Name",
-    "version": "3.0.0",
-    "homePage": "",
-    "auto_update": false
+  "display_name": "Master System v3.0 - Universal Memory & Progression",
+  "loading_order": 10,
+  "requires": [],
+  "optional": [],
+  "dependencies": [],
+  "js": "index.js",
+  "css": "",
+  "author": "pptpa278",
+  "version": "3.0.0",
+  "homePage": "https://github.com/pptpa278-specu/SillyTavern-MasterSystem",
+  "auto_update": false,
+  "minimum_client_version": "1.18.0",
+  "generate_interceptor": "masterSystemInterceptor"
 }
